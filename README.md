@@ -1,6 +1,6 @@
 # Database Mesh
 
-![logo](logo.png)
+<img src="static/logo.png" alt="Database Mesh Arch" width="500" length="500"/>
 
 Database Mesh is a framework specification for databases governance in the cloud native era. With the help of abstraction and standarderization of multiple databases governance actions, Database Mesh provides developers truely transparent database access experience, supports comsistent governance interface and variety automation tasks, boosts the transformation from Infrastructure as Code to Infrastructure Governance as Code.
 
