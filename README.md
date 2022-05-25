@@ -35,7 +35,7 @@ The following documents are working in progress:
 | | |
 |:-|:-|
 | Mailing List| https://groups.google.com/g/database-mesh |
-| Dev Meetings (Starting Feb 27th, 2022), Bi-weekly Tuesday 9:00AM PST|https://meet.google.com/yhv-zrby-pyt |
+| Dev Meetings (Starting Feb 27th, 2022), Bi-weekly Wednesday 9:00AM PST|https://meet.google.com/yhv-zrby-pyt |
 | Dev Meetings APAC Friendly (Starting April 27th, 2022), Bi-weekly APAC Wednesday 21:00PM GMT+8|https://meeting.tencent.com/dm/6UXDMNsHBVQO |
 | Wechat Broker|pisanix|
 | Slack |https://databasemesh.slack.com/  |
