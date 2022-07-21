@@ -20,6 +20,9 @@ Database Mesh hopes to:
 * Achieve a framework which includes database traffic, runtime resource and reliability for   databases in a configurable, pluggable, and programmable way.
 * Provide a standard interface for variety of databases like heterogeneous database, cloud-native database and distributed database.
 
+### Architecture
+![database-mesh-spec-v1](./static/database-mesh-spec-v1.png)
+
 
 ## Specification 
 
@@ -35,10 +38,10 @@ The following documents are working in progress:
 | | |
 |:-|:-|
 | Mailing List| https://groups.google.com/g/database-mesh |
-| Dev Meetings (Starting Feb 27th, 2022), Bi-weekly Wednesday 9:00AM PST|https://meet.google.com/yhv-zrby-pyt |
+| Dev Meetings (Starting Feb 16th, 2022), Bi-weekly Wednesday 9:00AM PST|https://meet.google.com/yhv-zrby-pyt |
 | Dev Meetings APAC Friendly (Starting April 27th, 2022), Bi-weekly APAC Wednesday 9:00PM GMT+8|https://meeting.tencent.com/dm/6UXDMNsHBVQO |
 | Wechat Broker|pisanix|
-| Slack |https://databasemesh.slack.com/  |
+| Slack |https://join.slack.com/t/databasemesh/shared_invite/zt-19rhvnxkz-USjZ~am~ghd_Q0q~8bAJXA |
 | Meetings Notes |https://bit.ly/39Fqt3x |
 <!-->
 
