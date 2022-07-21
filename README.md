@@ -1,14 +1,12 @@
 # Database Mesh
 
-<img src="static/logo.png" alt="Database Mesh Logo" width="500" length="500"/>
+<img src="static/logo.png" alt="Database Mesh Arch" width="500" length="500"/>
 
 Database Mesh is a framework specification for databases governance in the cloud native era. With the help of abstraction and standarderization of multiple databases governance actions, Database Mesh provides developers truely transparent database access experience, supports comsistent governance interface and variety automation tasks, boosts the transformation from Infrastructure as Code to Infrastructure Governance as Code.
 
 ## Introduction
 
 With the fast growing of microservices, the dependency relationship of these service instsances looks like a hugh graph which brings great management challenge. Different microservices show different need of databases, it also need an efficient way to manage all of these databases. With the help of Kubernetes, application deployment on scale becomes more convienent, and Service Mesh provides a solution for microservice governance in cloud native architecture. However, there is no such solution for databases.
-
-<!-- add arch -->
 
 Database Mesh is proposed as a governance framework for databases in cloud native environments follows the principles below:
 * Database is first-class resource: All of the behavior are derived from the governance actions of databases. 
@@ -43,7 +41,6 @@ The following documents are working in progress:
 | Wechat Broker|pisanix|
 | Slack |https://join.slack.com/t/databasemesh/shared_invite/zt-19rhvnxkz-USjZ~am~ghd_Q0q~8bAJXA |
 | Meetings Notes |https://bit.ly/39Fqt3x |
-<!-->
 
 ## Support
 
